@@ -1,7 +1,7 @@
 name: trigan-expX001
 favicon: null
-layout_spectrum: 0.7306213628035039
-typography_spectrum: 0.890344831161201
+layout_spectrum: 0
+typography_spectrum: 0.59082
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.296689311042428
-  lightness: 0.4204114174935967
-  saturation: 0.23750625713728368
-  rhythmicContrast: 0.010483417427167296
+    - '#000000'
+    - '#ffffff'
+    - '#22b24c'
+    - '#9dd29c'
+    - '#3f3f3f'
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
