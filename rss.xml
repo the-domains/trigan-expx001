@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[trigan-expX001]]></title>
         <description><![CDATA[trigan-expX001]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/trigan-expx001/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 12:20:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 16:31:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/trigan-expx001/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[experimental first post]]></title>
-            <description><![CDATA[<article><h1>experimental first post</h1><p>IL PRIMO POST</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f6f214c801225fb7ab55bdc75766ddce6b3dc08.jpg"></article>]]></description>
-            <link>undefinedexperimental-first-post/index.html</link>
+            <title><![CDATA[the 1 experiment]]></title>
+            <description><![CDATA[<article><h1>the 1 experiment</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7f6f214c801225fb7ab55bdc75766ddce6b3dc08.jpg"></article>]]></description>
+            <link>https://thegrid.ai/trigan-expx001/experimental-first-post/index.html</link>
             <guid isPermaLink="false">8817e55d-d605-4850-8946-04ab7b9e25eb</guid>
-            <pubDate>Mon, 07 Mar 2016 12:19:55 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2016 16:31:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
