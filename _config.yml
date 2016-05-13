@@ -1,28 +1,40 @@
-name: trigan-expX001
-favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.93471
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: trigan-expX001
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.3125
+  saturation: 0.3125
   brandColors:
     - '#000000'
     - '#ffffff'
     - '#22b24c'
     - '#9dd29c'
     - '#3f3f3f'
-  brandStrength: 0.3125
   lightness: 0.375
-  saturation: 0.3125
   rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.56914
