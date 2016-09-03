@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: trigan
+  email: trigan@sonic.it
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d06ca5-fc56-4e29-a967-25fd2ecee19c.svg
 name: trigan-expX001
@@ -39,4 +42,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: the  new test
 purpose: []
