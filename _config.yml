@@ -23,13 +23,14 @@ author:
   name: trigan
   email: trigan@sonic.it
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/95d06ca5-fc56-4e29-a967-25fd2ecee19c.svg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1c5e22-0c6f-4c5f-83e0-5881b2da315b.svg
 name: trigan-expX001
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e44921-98f5-45e8-bbc9-5e450adf1732.png
 collections:
   - index:
       navigable: true
@@ -42,5 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: the  new test
+title: cre_attivity
 purpose: []
