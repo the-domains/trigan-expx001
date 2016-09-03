@@ -43,5 +43,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: cre_attivity
+title: cre_activity
 purpose: []
