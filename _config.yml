@@ -1,36 +1,24 @@
-typography_spectrum: 0.40651
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#22b24c'
-    - '#9dd29c'
-    - '#3f3f3f'
-  brandStrength: 0.3125
-  lightness: 0.375
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+title: cre_activity
+cta:
+  version: null
+  bucket: null
+  domain: null
+layout_spectrum: 1
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e44921-98f5-45e8-bbc9-5e450adf1732.png
+author:
+  name: trigan
+  email: trigan@sonic.it
+name: trigan-expX001
+purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 1
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-author:
-  name: trigan
-  email: trigan@sonic.it
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1c5e22-0c6f-4c5f-83e0-5881b2da315b.svg
-name: trigan-expX001
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e44921-98f5-45e8-bbc9-5e450adf1732.png
 collections:
   - index:
       navigable: true
@@ -43,5 +31,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: cre_activity
-purpose: []
+color:
+  brandStrength: 0.3125
+  saturation: 0.3125
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#22b24c'
+    - '#9dd29c'
+    - '#3f3f3f'
+  lightness: 0.375
+  rhythmicContrast: 0.5
+typography_spectrum: 0.5775717
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1c5e22-0c6f-4c5f-83e0-5881b2da315b.svg
